@@ -1,2 +1,4 @@
-print("Hello World")
-print("This is another message")
+fruits = ["apple", "pear" "banana" "peach"]
+
+for item in fruits:
+    print(item)
